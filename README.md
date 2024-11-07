@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2> Hi, I'm Lucas Domene!</h2> 
 
-<!--
-**lucasdomene/lucasdomene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Bachelor Computer Scientist at <a href="https://www.mackenzie.br/">Mackenzie University</a></br>Software Engineer at <a href="https://www.pray.com">PRAY.COM</a>
+</em></p>
 
-Here are some ideas to get you started:
+[![Linkedin: lucasfirmo](https://img.shields.io/badge/-lucasfirmo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfirmo/)](https://www.linkedin.com/in/lucasfirmo/)
+[![GitHub Lucas](https://img.shields.io/github/followers/lucasdomene?label=follow&style=social)](https://github.com/lucasdomene)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const lucasdomene = {
+  pronouns: "he" | "him",
+  code: [Swift, Objective-C, Javascript, Typescript, HTML, CSS],
+  tools: [SwiftUI, UIKit, ReactNative, React, Node, Storybook],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+---

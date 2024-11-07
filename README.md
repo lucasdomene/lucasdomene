@@ -11,7 +11,6 @@ const lucasdomene = {
   pronouns: "he" | "him",
   code: [Swift, Objective-C, Javascript, Typescript, HTML, CSS],
   tools: [SwiftUI, UIKit, ReactNative, React, Node, Storybook],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```

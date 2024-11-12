@@ -10,8 +10,7 @@
 const lucasdomene = {
   pronouns: "he" | "him",
   code: [Swift, Objective-C, Javascript, Typescript, HTML, CSS],
-  tools: [SwiftUI, UIKit, ReactNative, React, Node, Storybook],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  tools: [SwiftUI, UIKit, ReactNative, React, Node, NextJS, Tailwind, Storybook],
 }
 ```
 

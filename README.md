@@ -9,7 +9,7 @@
 ```javascript
 const lucasdomene = {
   code: [Swift, Objective-C, Javascript, Typescript, HTML, CSS],
-  tools: [SwiftUI, UIKit, ReactNative, React, Node, NextJS, Tailwind, Storybook],
+  tools: [SwiftUI, UIKit, ReactNative, React, Node, NextJS, Tailwind, Storybook]
 }
 ```
 

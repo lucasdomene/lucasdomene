@@ -8,7 +8,6 @@
 
 ```javascript
 const lucasdomene = {
-  pronouns: "he" | "him",
   code: [Swift, Objective-C, Javascript, Typescript, HTML, CSS],
   tools: [SwiftUI, UIKit, ReactNative, React, Node, NextJS, Tailwind, Storybook],
 }
